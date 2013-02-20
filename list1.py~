@@ -41,7 +41,7 @@ def front_x(words):
   for s  in  words:
     if s.startswith('x'):
       list.append(s)
-    else:  
+    else  
       other_list.append(s)
     
   list.sort()
